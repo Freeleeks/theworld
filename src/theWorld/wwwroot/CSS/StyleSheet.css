@@ -16,6 +16,7 @@
      background-color:#eee;
      padding: 4px;
      margin: 0;
+     color:black;
  }
 
  #footer{
@@ -55,7 +56,11 @@
      left:0;
      margin:0;
  }
+ #sidebar.hide-sidebar{
+     left:-250px;
+ }
  #wrapper {
      margin:0 0 0 250px;
+   
 
  }
